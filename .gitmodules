@@ -1,0 +1,3 @@
+[submodule "segundo"]
+	path = segundo
+	url = https://github.com/nimi98/primero
